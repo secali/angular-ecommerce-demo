@@ -1,27 +1,42 @@
-# Comics
+# 🛒 Angular E-Commerce Storefront Prototype
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+[![Angular](https://img.shields.io/badge/Angular-13%2B-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-4.x-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Bootstrap](https://img.shields.io/badge/UI-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 
-## Development server
+> **Modern Single Page Application (SPA) e-commerce client prototype built with Angular, TypeScript, and reactive component patterns.**
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+## 🎯 Overview
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Developed during the KeepCoding Full-Stack Bootcamp, this application showcases modern frontend engineering practices:
+- **Reactive Forms & State**: Product filtering, search query debouncing, and shopping cart state management.
+- **Modular Routing**: Lazy-loaded feature modules and route guards.
+- **REST Integration**: Asynchronous HTTP client service calls with RxJS operators.
 
-## Build
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 🚀 Quick Start
 
-## Running unit tests
+```bash
+npm install
+npm start
+```
+Open `http://localhost:4200/` in your browser.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+---
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 👨‍💻 Author & Professional Profile
 
-## Further help
+**Sergio Cañete Linares**  
+*Senior QA Automation Engineer (SDET) | Software Developer in Test & AI-Driven Testing*
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Specializing in scalable test automation architectures, microservices API testing, event-driven systems (Kafka), custom MCP servers, and multi-agent AI testing orchestration.
+
+- 💼 **LinkedIn**: [linkedin.com/in/secali](https://www.linkedin.com/in/secali)
+- 🐙 **GitHub**: [@secali](https://github.com/secali)
+- 📧 **Email**: [sergio13896@gmail.com](mailto:sergio13896@gmail.com)
+- 📍 **Location**: Spain
